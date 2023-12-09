@@ -12,13 +12,6 @@ Managed with [chezmoi](https://www.chezmoi.io) ❤️
      bw login
      ```
 
-     **macOS**
-     ```
-     curl -o ~/bin/bw 'https://vault.bitwarden.com/download/\?app\=cli\&platform\=macos'
-     chmod +x ~/bin/bw
-     bw login
-     ```
-
   2. [Install chezmoi](https://www.chezmoi.io/docs/install/) to `~/bin` and
      install dotfiles to `~/dotfiles`.
      ```
